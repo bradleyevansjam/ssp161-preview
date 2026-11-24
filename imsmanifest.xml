@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="com.course.ssp161posteventdebriefdevelopment" version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ORG-1">
+    <organization identifier="ORG-1">
+      <title>Post-event checks, team debrief and personal development</title>
+      <item identifier="ITEM-1" identifierref="RES-1" isvisible="true">
+        <title>Post-event checks, team debrief and personal development</title>
+        <adlcp:masteryscore>70</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="brand/afc-logo-master-800.png"/>
+      <file href="brand/afc-ssp-start-picture.jpg"/>
+      <file href="brand/fonts/Ubuntu-Light.ttf"/>
+      <file href="brand/fonts/Ubuntu-Medium.ttf"/>
+      <file href="brand/fonts/Ubuntu-Regular.ttf"/>
+      <file href="captions/ssp161-v1-welfare.ar.vtt"/>
+      <file href="captions/ssp161-v1-welfare.en.vtt"/>
+      <file href="captions/ssp161-v2-action.ar.vtt"/>
+      <file href="captions/ssp161-v2-action.en.vtt"/>
+      <file href="captions/ssp161-v3-radio.ar.vtt"/>
+      <file href="captions/ssp161-v3-radio.en.vtt"/>
+      <file href="captions/ssp161-v4-blame.ar.vtt"/>
+      <file href="captions/ssp161-v4-blame.en.vtt"/>
+      <file href="fonts/CREDITS.txt"/>
+      <file href="fonts/TwemojiCountryFlags.woff2"/>
+      <file href="icons/custom-walkie-talkie.svg"/>
+      <file href="icons/fluent-3d-adhesive-bandage.png"/>
+      <file href="icons/fluent-3d-backpack.png"/>
+      <file href="icons/fluent-3d-bar-chart.png"/>
+      <file href="icons/fluent-3d-broom.png"/>
+      <file href="icons/fluent-3d-bullseye.png"/>
+      <file href="icons/fluent-3d-busts-in-silhouette.png"/>
+      <file href="icons/fluent-3d-calendar.png"/>
+      <file href="icons/fluent-3d-check-mark-button.png"/>
+      <file href="icons/fluent-3d-collision.png"/>
+      <file href="icons/fluent-3d-counterclockwise-arrows-button.png"/>
+      <file href="icons/fluent-3d-desktop-computer.png"/>
+      <file href="icons/fluent-3d-ear.png"/>
+      <file href="icons/fluent-3d-eyes.png"/>
+      <file href="icons/fluent-3d-flexed-biceps.png"/>
+      <file href="icons/fluent-3d-hammer-and-wrench.png"/>
+      <file href="icons/fluent-3d-handshake.png"/>
+      <file href="icons/fluent-3d-hourglass-not-done.png"/>
+      <file href="icons/fluent-3d-light-bulb.png"/>
+      <file href="icons/fluent-3d-magnifying-glass-tilted-left.png"/>
+      <file href="icons/fluent-3d-memo.png"/>
+      <file href="icons/fluent-3d-military-medal.png"/>
+      <file href="icons/fluent-3d-package.png"/>
+      <file href="icons/fluent-3d-page-facing-up.png"/>
+      <file href="icons/fluent-3d-people-hugging.png"/>
+      <file href="icons/fluent-3d-puzzle-piece.png"/>
+      <file href="icons/fluent-3d-red-question-mark.png"/>
+      <file href="icons/fluent-3d-round-pushpin.png"/>
+      <file href="icons/fluent-3d-speech-balloon.png"/>
+      <file href="icons/fluent-3d-stadium.png"/>
+      <file href="icons/fluent-3d-stop-sign.png"/>
+      <file href="icons/fluent-3d-telephone-receiver.png"/>
+      <file href="icons/fluent-3d-thumbs-up.png"/>
+      <file href="icons/fluent-3d-warning.png"/>
+      <file href="icons/fluent-3d-worried-face.png"/>
+      <file href="icons/fluent-3d-writing-hand.png"/>
+      <file href="icons/fluent-3d-yawning-face.png"/>
+      <file href="images/cast/C-01.jpg"/>
+      <file href="images/cast/C-04.jpg"/>
+      <file href="images/cast/C-05.jpg"/>
+      <file href="images/cast/C-06.jpg"/>
+      <file href="images/cast/C-07.jpg"/>
+      <file href="images/cast/C-08.jpg"/>
+      <file href="images/ssp161-s0-hook.jpg"/>
+      <file href="images/ssp161-s2-accounts.jpg"/>
+      <file href="images/ssp161-s2-water.jpg"/>
+      <file href="images/ssp161-s4-cordon.jpg"/>
+      <file href="images/ssp161-s4-dp1.jpg"/>
+      <file href="images/ssp161-s4-private.jpg"/>
+      <file href="images/ssp161-s4-sweep.jpg"/>
+      <file href="images/ssp161-s5-mentor.jpg"/>
+      <file href="scorm.js"/>
+      <file href="video/ssp161-v1-welfare.mp4"/>
+      <file href="video/ssp161-v2-action.mp4"/>
+      <file href="video/ssp161-v3-radio.mp4"/>
+      <file href="video/ssp161-v4-blame.mp4"/>
+      <file href="aids/SSP16.1-Post-event-checks-team-debrief-and-personal-development-job-aids.pdf"/>
+      <file href="aids/SSP16.1-Post-event-checks-team-debrief-and-personal-development-job-aids-pages/p1.jpg"/>
+    </resource>
+  </resources>
+</manifest>
